@@ -3,7 +3,7 @@ Proggetto-Server-Gentile è un progetto che implementa un server in linguaggio C
 
 ## 📦 Installazione
 
-1. Clona il repository:
+1. Clona la repository:
 
    ```bash
    git clone https://github.com/Donatipaolo/Progetto-Server-Gentile.git
